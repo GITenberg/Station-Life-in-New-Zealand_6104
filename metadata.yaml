@@ -1,0 +1,36 @@
+_repo: Station-Life-in-New-Zealand_6104
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barker, Lady (Mary Anne)
+    aliases:
+    - Broome, Mary Anne Stewart Barker, Lady
+    - Stewart, Mary Anne
+    - Broome, Lady (Mary Anne)
+    - Barker, Mary Anne, Lady
+    birthdate: 1831
+    deathdate: 1911
+    gutenberg_agent_id: '1905'
+    url: http://www.gutenberg.org/2009/agents/1905
+description: ''
+gutenberg_bookshelf: New Zealand
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Barker, Lady (Mary Anne), 1831-1911 -- Correspondence'
+- !lcsh 'Sheep ranches -- New Zealand'
+- !lcsh 'Country life -- New Zealand -- History'
+- !lcsh 'New Zealand -- Social life and customs'
+- !lcsh 'New Zealand -- Biography'
+- !lcc 'S'
+- !lcsh 'Governors'' spouses -- New Zealand -- Correspondence'
+- GITenberg
+title: Station Life in New Zealand
+url: http://www.gutenberg.org/ebooks/6104
