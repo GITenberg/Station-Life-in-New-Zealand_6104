@@ -1,5 +1,8 @@
 _repo: Station-Life-in-New-Zealand_6104
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barker, Lady (Mary Anne)
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '1905'
     url: http://www.gutenberg.org/2009/agents/1905
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6104#Station-Life-in-New-Zealand
 gutenberg_bookshelf: New Zealand
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
